@@ -49,7 +49,7 @@ Property (links to WAI-ARIA 1.1 specs) | Category | Description | Allowed Values
 [aria-labelledby](https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby) | Relationship attributes | Element(s) that label the current element | String/list - ID(s) of element(s)
 [aria-level](https://www.w3.org/TR/wai-aria-1.1/#aria-level) | Widget attributes | Gives hierarchical level of the element within a structure such as a tree or nested items | Integer greater than or equal to 1
 [aria-live](https://www.w3.org/TR/wai-aria-1.1/#aria-live) | Live region attributes | Indicates an element will be updated and gives the type of updates the user can expect | **off**, assertive, polite
-[aria-modal](https://www.w3.org/TR/wai-aria-1.1/#aria-modal) | Widget attributes | Indicates whether an element is modal when displayed | false, **true*
+[aria-modal](https://www.w3.org/TR/wai-aria-1.1/#aria-modal) | Widget attributes | Indicates whether an element is modal when displayed | false, **true**
 [aria-multiline](https://www.w3.org/TR/wai-aria-1.1/#aria-multiline) | Widget attributes | Text box accepts multiple lines of input, not just a single line | **false**, true
 [aria-multiselectable](https://www.w3.org/TR/wai-aria-1.1/#aria-multiselectable) | Widget attributes| User can select more than one item in a list | **false**, true
 [aria-orientation](https://www.w3.org/TR/wai-aria-1.1/#aria-orientation) | Widget attributes | Defines the element orientation | **horizontal**, vertical
